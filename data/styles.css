@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#region-radio {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.dash-radioitems label {
+    margin-right: 15px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+#sales-graph {
+    margin: 0 auto;
+    width: 80%;
+}
